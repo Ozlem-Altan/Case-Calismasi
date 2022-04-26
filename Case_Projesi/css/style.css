@@ -1,0 +1,132 @@
+.hiza{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.hiza2{
+    margin-left: 30%;
+    margin-top: 2%;
+}
+.background{
+    width: 320px ;
+    height: 220px;
+    padding: 15px;
+    margin-top: auto;
+    align-items: center;
+    left: 0%;
+    background-color: white;
+    box-shadow: 1px 4px 11px 0px grey;
+}
+
+.background2{
+    width: 350px ;
+    height: 250px;
+    padding: 15px;
+    margin-top: 2%;
+    margin-left:30%;
+    align-items: center;
+    left: 0%;
+    background-color: white;
+    box-shadow: 1px 4px 11px 0px grey;
+}
+
+.background3{
+    width: 350px;
+    height: 150px;
+    padding: 15px;
+    margin-top: 2%;
+    margin-left: 30%;
+    align-items: center;
+    left: 0%;
+    background-color: white;
+    box-shadow: 1px 4px 11px 0px grey;
+    z-index: 99;
+}
+
+.img-thumbnail1{
+    position: relative;
+    margin-left: 2%;
+    margin-top:2%;
+    width:51%;
+    height:auto;
+}
+
+.hotels-name{
+    color: black;
+    font-size: 30px;
+    margin-left: 60%;
+    margin-top: -35%;
+}
+
+.add-name{
+    color: black;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.btn1{
+    height: 38px;
+    width: 22%;
+    margin-left: 56%;
+    margin-top: 12%;
+}
+
+.btn2{
+    height: 38px;
+    width: 22%;
+    margin-left: 80%;
+    margin-top: -18%;
+}
+
+.btn3{
+    height: 40px;
+    width:30%;
+    margin-left: 8%;
+    margin-top: 8%;
+    
+}
+.btn4{
+    height: 40px;
+    width:30%;
+    margin-left: 20%;
+    margin-top: 8%;
+    
+}
+
+.combobox-style{
+    margin-top:2%;
+    margin-left: 30%;
+    width:190px;
+    height: 35px;
+    box-shadow: 1px 1px 5px 0px grey;
+    border: -5%;
+}
+
+.kayitekleme{
+    font-size: 20px;
+    margin-left: auto;
+    margin-top: 5%;
+}
+
+.card:hover{
+    width: 650px;
+    height: 320px;
+    background-color: pink;
+}
+
+.sayfagetir{
+    display: flex;
+    align-items: center;
+}
+
+.sayfakapat{
+    display: flex;
+    align-items: center;
+}
+#otelekleme{
+    display: none;
+}
+
+#otelsilme{
+    display: none;
+}
